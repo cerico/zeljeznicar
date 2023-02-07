@@ -1,4 +1,13 @@
-# 0.1.0 (2023-02-07)
+# [0.2.0](https://github.com/cerico/zeljeznicar/compare/v0.1.0...v0.2.0) (2023-02-07)
+
+
+### Features
+
+* first commit ([5dd47fa](https://github.com/cerico/zeljeznicar/commit/5dd47fae288aa80a60d397061995daee32f45352))
+
+
+
+# [0.1.0](https://github.com/cerico/zeljeznicar/compare/5ea825cc4ac394e13a0aa764b4a721c65ff31d84...v0.1.0) (2023-02-07)
 
 
 ### Features
