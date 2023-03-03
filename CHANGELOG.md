@@ -1,3 +1,12 @@
+## [0.2.2](https://github.com/cerico/zeljeznicar/compare/v0.2.1...v0.2.2) (2023-03-03)
+
+
+### Bug Fixes
+
+* updating the changelog with all releases ([2407db5](https://github.com/cerico/zeljeznicar/commit/2407db5f1f463e45dbd5400b5ad1d95e7224a101))
+
+
+
 ## [0.2.1](https://github.com/cerico/zeljeznicar/compare/v0.2.0...v0.2.1) (2023-03-03)
 
 
