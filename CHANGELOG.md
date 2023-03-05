@@ -1,3 +1,12 @@
+## [0.2.3](https://github.com/cerico/zeljeznicar/compare/v0.2.2...v0.2.3) (2023-03-05)
+
+
+### Bug Fixes
+
+* testing conventional-changelog-action ([524cc1e](https://github.com/cerico/zeljeznicar/commit/524cc1ecde8c0cc810830d74ebc393ce2a7ba3e3))
+
+
+
 ## [0.2.2](https://github.com/cerico/zeljeznicar/compare/v0.2.1...v0.2.2) (2023-03-03)
 
 
