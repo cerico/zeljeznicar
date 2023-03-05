@@ -1,3 +1,12 @@
+## [0.2.4](https://github.com/cerico/zeljeznicar/compare/v0.2.3...v0.2.4) (2023-03-05)
+
+
+### Bug Fixes
+
+* test for newline again ([209bfee](https://github.com/cerico/zeljeznicar/commit/209bfee92a2a0a9e7403082724751fa5a868aa9c))
+
+
+
 ## [0.2.3](https://github.com/cerico/zeljeznicar/compare/v0.2.2...v0.2.3) (2023-03-05)
 
 
