@@ -1,6 +1,6 @@
 {
   "name": "zeljeznicar",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "private": true,
   "scripts": {
     "dev": "astro dev",
@@ -19,4 +19,3 @@
     "sass": "^1.57.1"
   }
 }
-
